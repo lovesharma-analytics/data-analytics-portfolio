@@ -10,6 +10,9 @@ Built a Supply Chain Inventory Dashboard to analyze stock levels, demand pattern
 **Tools Used:** Python, Pandas, Zoho Analytics, Excel  
 **File:** [Supply Chain Dashboard PDF](Supply_Chain_Inventory_Dashboard-Copy.pdf)
 
+## Live Dashboard
+[View Supply Chain Inventory Dashboard](https://analytics.zoho.in/open-view/525231000000124542)
+
 ### 2. E-commerce Sales Dashboard
 Built an E-commerce Dashboard to analyze sales performance, product demand, and business insights.
 
