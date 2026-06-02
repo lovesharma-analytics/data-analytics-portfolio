@@ -18,6 +18,8 @@ Built an E-commerce Dashboard to analyze sales performance, product demand, and 
 
 **Tools Used:** Python, Pandas, Zoho Analytics, Excel
 *File:** [E-commerce sales analysis Dashboard PDF]
+(E-commerce_Sales_Analysis_Dashboard.pdf)
+
 
 ## Live Dashboard
 [E-commerce Sales Analysis Dashboard](https://analytics.zoho.in/open-view/525231000000040419)
@@ -26,6 +28,8 @@ Built an E-commerce Dashboard to analyze sales performance, product demand, and 
 Built a Netflix Dashboard to analyze content distribution, ratings, release trends, and genre patterns.
 
 **Tools Used:** Python, Pandas, Zoho Analytics, Excel
+*File:** [Netflix User Behavior Analysis PDF]
+(Netflix_User_Behavior_Analysis.pdf)
 
 ## Live Dashboard
 [Netflix User Behavior Analysis](https://analytics.zoho.in/open-view/525231000000058345)
